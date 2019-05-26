@@ -1,0 +1,13 @@
+.bold {
+    font-weight: bold;
+}
+
+img {
+    width: 6em;
+    height: 6em;
+}
+
+.quantity-button {
+    margin-top: .3em;
+    margin-bottom: .3em;
+}
